@@ -64,7 +64,7 @@ plt.show()
 ```
 * To verify the dataset, let's plot first 25 images from training set and display class name below each image.<br>
 <p float="left">
-  <img alt="output"  src="CIFAR img classification.png" width="450" />
+  <img alt="output"  src="output.png" width="450" />
 </p>
 <br>
 
